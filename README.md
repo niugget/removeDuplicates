@@ -1,2 +1,2 @@
 # removeDuplicates
-An exercise to remove some duplicate items in a string
+An exercise to remove some duplicate items in an array of strings

@@ -1,0 +1,11 @@
+
+.jumbotron h1{
+  font-size: 40px;
+  text-transform: capitalize;
+}
+
+.half-column{
+  display: inline-block;
+  vertical-align: top;
+  padding-right: 200px;
+}
